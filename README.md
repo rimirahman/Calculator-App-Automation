@@ -7,22 +7,21 @@
 
 ## Technology used:
 
-- clone the project
-- execute with intellij
+- Tool: Selenium Webdriver
+- IDE: Intellij, Android Studio
+- Build tool: Gradle
+- Language: Java
+- Test_Runner: Appium
 
--Tool: Selenium Webdriver
--IDE: Intellij, Android Studio
--Build tool: Gradle
--Language: Java
--Test_Runner: Appium
 
 ## Prerequisites
 
--Install Android Studio latest version
--Install Appium 1.17.1
--Install jdk 8 or any LTS version
--Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
--Stable internet connection
+- Install Android Studio latest version
+- Install Appium 1.17.1
+- Install jdk 8 or any LTS version
+- Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME
+- Test_Runner: Appium
+- Stable internet connection
 
 
 ## Automate calculator app and do following tests:
