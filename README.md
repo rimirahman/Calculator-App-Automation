@@ -40,6 +40,8 @@
 
 ## Video of the automation
 
+https://user-images.githubusercontent.com/122162468/222504471-771175c6-6c11-434a-a4b0-fd53afd0e00d.mp4
+
 
 
 
