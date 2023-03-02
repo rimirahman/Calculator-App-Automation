@@ -7,6 +7,9 @@
 
 ## Technology used:
 
+- clone the project
+- execute with intellij
+
 -Tool: Selenium Webdriver
 -IDE: Intellij, Android Studio
 -Build tool: Gradle
