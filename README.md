@@ -13,7 +13,6 @@
 -Language: Java
 -Test_Runner: Appium
 
-
 ## Prerequisites
 
 -Install Android Studio latest version
